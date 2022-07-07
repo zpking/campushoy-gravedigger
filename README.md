@@ -9,7 +9,7 @@ pip install pyDes
 ```
 ## 3.克隆项目
 ```shell
-git clone https://github.com/lonive/campushoy-gravedigger.git
+git clone git@github.com:zpking/campushoy-gravedigger.git
 ```
 ## 4.修改个人信息
 ```
